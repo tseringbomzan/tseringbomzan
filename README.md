@@ -39,4 +39,5 @@ I'm a 3rd Year Cybersecurity Student currently interning at CareSource as a Cybe
 <div>
     <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" />
     <img src="https://img.shields.io/badge/-Bash_Scripting-4EAA25?&style=for-the-badge&logo=gnu-bash&logoColor=white" />
+    <img src="https://img.shields.io/badge/-PowerShell-5391FE?&style=for-the-badge&logo=powershell&logoColor=white" />
 </div>
